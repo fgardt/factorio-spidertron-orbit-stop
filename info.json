@@ -1,12 +1,13 @@
 {
-  "name": "[internal-mod-name]",
+  "name": "spidertron-orbit-stop",
   "version": "0.0.0",
-  "title": "[MOD DISPLAY NAME]",
-  "author": "[YOUR MODS.FACTORIO.COM USERNAME]",
-  "homepage": "[HOMEPAGE/REPO URL]",
-  "description": "[SHORT DESCRIPTION]",
+  "title": "Spidertron Orbit Stop",
+  "author": "fgardt",
+  "contact": "https://discord.gg/hcsWaHaWYS",
+  "homepage": "https://github.com/fgardt/spidertron-orbit-stop",
+  "description": "Detect when a spidertron is stuck orbiting around a waypoint and set it free again.",
   "factorio_version": "1.1",
   "dependencies": [
-    "base"
+    "base >= 1.1.90"
   ]
 }
